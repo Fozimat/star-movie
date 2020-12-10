@@ -1,4 +1,4 @@
-const apiKey = "70cbbdd34806291cf70ec7f9cf3e1ee8";
+const apiKey = "YOUR API KEY";
 
 class DataSource {
     static searchMovie(keyword) {
